@@ -33,9 +33,3 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://live.infosport.web.id/dash/premiersports/manifest.mpd
-#EXTINF:-1 tvg-id="premier.sports.id" tvg-logo="https://images.infosport.web.id/tv/premiersports.png" group-title="Football Club",Premier Sports HD
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=a1b2c3d4e5f60718:9a8b7c6d5e4f3210
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://live.infosport.web.id/dash/premiersports/manifest.mpd
