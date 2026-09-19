@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
 #EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="Sports",beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdngateway.rkda.my.id/licence/e6dc2a98650cec2454d77bcf4a704155022fbf9056d3edc3
+#KODIPROP:inputstream.adaptive.license_key=https://cdngateway.rkda.my.id/license/e6dc2a98650cec2454d77bcf4a704155022fbf9056d3edc3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://cdngateway.rkda.my.id/dash/e6dc2a98650cec2454d77bcf4a704155022fbf9056d3edc3/manifest.mpd
