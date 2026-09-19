@@ -23,3 +23,11 @@ https://cdngateway.rkda.my.id/dash/208ae19f8bf7684a65fec37567ff6fcfea41384a8938e
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#EXTINF:-1 tvg-id="antv.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="Nasional",ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdngateway.rkda.my.id/licence/25e82d3f296827526d392ef4c2e5fd899a8cd327be58c55b
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://cdngateway.rkda.my.id/dash/25e82d3f296827526d392ef4c2e5fd899a8cd327be58c55b/manifest.mpd
